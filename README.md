@@ -1,4 +1,4 @@
-Welcome to my Computer Science Course Projects Repository! This repository contains a collection of projects that I have completed as part of various Computer Science and Math courses. Each project showcases my skills and knowledge in different areas of study. Below, you will find a brief overview of the projects. This is also a living repository, as I am still transferring projects from my GitLab account to this GitHub account.
+Welcome to my Computer Science Course Projects Repository! This repository contains a collection of projects that I have completed as part of various Computer Science and Math courses. Each project showcases my skills and knowledge in different areas of study. Below, you will find a brief overview of the projects. Please note that these projects are not the only projects that were completed during my time in undergrad but are projects that I feel are relevant to the career in data analytics and design that I am interested in.
 
 Introduction to Computer Science - Final Project
 

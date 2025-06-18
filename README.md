@@ -12,3 +12,8 @@ Statistics and Engineering - Final Project
 
 In fall 2021, my Statistics course final project was to develop two research questions that followed a data sample of our choice and complete a full statistical analysis of it including our results, ANOVA, Q-Q plots, scatterplots, our hypothesis, and regression. The statistics folder contains the full report as a pdf. 
   
+New Orleans in Twelve Movements Summer Course - Final Project
+
+***Crescent City to the City of Angels***
+
+In summer 2023, I took a course that focused on the history, geography, and musicality that came out of New Orleans to date. The requirements of the final project were to choose a topic that focused on three aspects of the city (music/art, environment/engineering, history) while using ArcGIS to create a storymap rather than a PowerPoint. My project focused on the migration of New Orleanians to Los Angeles during the Great Migration and beyond, with many migrating using the emerging railroad systems from the 1800s to go West and seek better opportunity. There is a link to the storymap via ArcGis within the NOLA-ArcGIS-Project file.
